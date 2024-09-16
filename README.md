@@ -115,6 +115,9 @@ pip install -r requirements.txt
 
 ## Contributing
 
+![ImGonnaNeedYourHelpEricCartmanGIF](https://github.com/user-attachments/assets/7bcf9135-0b66-48d7-8368-f373d014f1f7)
+
+
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
 
 
