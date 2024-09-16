@@ -1,6 +1,7 @@
 # Loan Prediction Project
 
 [![Python](https://img.shields.io/badge/python-3.12%2B-blue)](https://www.python.org/downloads/)
+![UzuWhenAutComesOutGIF](https://github.com/user-attachments/assets/2a87c575-30d0-4a66-bb44-01a440255ac6)
 
 ## Table of Contents
 
